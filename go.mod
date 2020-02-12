@@ -1,3 +1,3 @@
-module github.com/perryrh0dan/utils
+module utils
 
 go 1.13
